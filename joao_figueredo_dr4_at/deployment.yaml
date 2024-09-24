@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: chefe-service
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: chefe-service
+  template:
+    metadata:
+      labels:
+        app: chefe-service
+    spec:
+      containers:
+        - name: chefe-service
+          image: meu-registry/chefe-service:latest
+          ports:
+            - containerPort: 8080
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: receita-service
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: receita-service
+  template:
+    metadata:
+      labels:
+        app: receita-service
+    spec:
+      containers:
+        - name: receita-service
+          image: meu-registry/receita-service:latest
+          ports:
+            - containerPort: 8080

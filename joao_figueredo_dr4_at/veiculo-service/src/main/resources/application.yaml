@@ -1,0 +1,10 @@
+spring:
+    r2dbc:
+        url: r2dbc:h2:mem:///veiculoDB
+        username: sa
+        password:
+    h2:
+        console:
+            enabled: true
+    application:
+        name: veiculo-service

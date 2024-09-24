@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
@@ -9,6 +8,14 @@
         <option value="$PROJECT_DIR$/DR3TP1Server/pom.xml" />
         <option value="$PROJECT_DIR$/DR3TP1Q8/pom.xml" />
         <option value="$PROJECT_DIR$/DR3TP1Client/pom.xml" />
+        <option value="$PROJECT_DIR$/joao_figueredo_dr4_at/pom.xml" />
+        <option value="$PROJECT_DIR$/joao_figueredo_dr4_at/imovel-service/pom.xml" />
+        <option value="$PROJECT_DIR$/joao_figueredo_dr4_at/status-service/pom.xml" />
+        <option value="$PROJECT_DIR$/joao_figueredo_dr4_at/veiculo-service/pom.xml" />
+        <option value="$PROJECT_DIR$/joao_figueredo_dr4_at/eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/joao_figueredo_dr3_at/almoxarifado-service/pom.xml" />
+        <option value="$PROJECT_DIR$/joao_figueredo_dr3_at/transporte-service/pom.xml" />
+        <option value="$PROJECT_DIR$/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/pom.xml" />
       </list>
     </option>
   </component>

@@ -159,4 +159,48 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-# End of https://www.toptal.com/developers/gitignore/api/java,maven,intellij
+# End of https://www.toptal.com/developers/gitignore/api/java,maven,intellij!/.idea/
+!/.idea*
+*.gitignore*
+!/joao_figueredo_dr3_at/material-de-apoio/
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/eventos/EstadoPedidoMudou.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/infra/message/EstadoPedidoMudouDeserializer.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/infra/message/EstadoPedidoMudouSerializer.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/domain/ItemPedido.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/nbactions.xml
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/domain/Pedido.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/eventos/PedidoConfirmadoEvent.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/controllers/PedidoController.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/eventos/PedidoCriadoEvent.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/infra/repository/PedidoRepository.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/infra/service/PedidoService.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/domain/PedidoStatus.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/infra/repository/PedidoStatusConverter.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/h2_databases/PetFriends_Pedidos.mv.db
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/h2_databases/PetFriends_Pedidos.trace.db
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/PetFriendsPedidosApplication.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/test/java/br/edu/infnet/PetFriendsPedidosApplicationTests.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/infra/message/PetFriendsPedidosMessageConfig.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends.asta
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/pom.xml
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/domain/ValorMonetario.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/infra/repository/ValorMonetarioConverter.java
+/.idea/vcs.xml
+/joao_figueredo_dr4_at/.idea/vcs.xml
+/joao_figueredo_dr4_at/.idea/workspace.xml
+/joao_figueredo_dr4_at/.idea/scala_compiler.xml
+/.idea/scala_compiler.xml
+/joao_figueredo_dr4_at/.idea/material_theme_project_new.xml
+/.idea/material_theme_project_new.xml
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/h2_databases/DR4_1.trace.db
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/src/main/java/br/edu/infnet/pedidos/domain/Endereco.java
+/joao_figueredo_dr3_at/material-de-apoio/PetFriends_Pedidos/h2_databases/DR4_1.mv.db
+/h2_databases/DR4_1.mv.db
+/joao_figueredo_dr4_at/.idea/aws.xml
+/h2_databases/almoxarifadoDB.trace.db
+/h2_databases/almoxarifadoDB.mv.db
+/joao_figueredo_dr3_at/material-de-apoio/DDD2_E7_A1.pdf
+/joao_figueredo_dr3_at/material-de-apoio/DDD2_E7_A2.pdf
+/joao_figueredo_dr3_at/material-de-apoio/Material - Etapa 8-20240922/DDD2_E8_A1.pdf
+/joao_figueredo_dr3_at/material-de-apoio/Material - Etapa 8-20240922/DDD2_E8_A2.pdf
+/joao_figueredo_dr3_at/material-de-apoio/Material - Etapa 8-20240922/DDD2_E8_A2_Codigos.txt
