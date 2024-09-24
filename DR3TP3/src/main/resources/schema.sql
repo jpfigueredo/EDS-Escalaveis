@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS produto;
+DROP TABLE IF EXISTS fornecedor;
+
+CREATE TABLE produto (
+    id BIGINT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    preco DECIMAL NOT NULL
+);
+
+CREATE TABLE fornecedor (
+    id BIGINT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL
+);
